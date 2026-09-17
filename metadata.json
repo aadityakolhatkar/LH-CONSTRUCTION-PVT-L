@@ -1,0 +1,6 @@
+{
+  "name": "LH Construction Ltd",
+  "description": "High-end carpentry, structural roofing, bespoke kitchens, architectural design, and premier construction services led by Lewis Horwood.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
