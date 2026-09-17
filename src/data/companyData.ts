@@ -130,7 +130,7 @@ export const SERVICES: ServiceItem[] = [
       'Transparent milestones and frequent client communication',
       'Quality assurance from site prep through handover',
     ],
-    image: '/assets/lh/structural-extension.jpg',
+    image: '/assets/lh/roofing-structural-extension.jpg',
   },
 ];
 
@@ -230,7 +230,7 @@ export const PROJECTS: ProjectItem[] = [
     title: 'Multi-Story Extension Framing & Studwork',
     category: 'structural',
     categoryLabel: 'Timber Framing',
-    image: '/assets/lh/structural-extension.jpg',
+    image: '/assets/lh/roofing-structural-extension.jpg',
     aspect: 'portrait',
     description:
       'Timber stud partition and external wall framing for home extension, demonstrating alignment with existing structural masonry and foundation anchors.',
